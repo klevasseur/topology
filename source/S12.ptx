@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="s-basic_Set_Operations">
+<title>Basic Set Operations  </title><idx>Basic Set Operations  </idx>
+
+<subsection>
+<title>Definitions</title>
+<definition  xml:id="def-intersection">
+<title>Intersection</title>
+<idx>Intersection</idx>
+<notation> 
+		<usage>
+		<m>A \cap  B</m>
+		</usage>
+		<description>
+		  The intersection of <m>A</m> and <m>B</m>.  				  
+		</description>
+</notation> 
+<statement><p> Let <m>A</m> and <m>B</m> be sets. The intersection of <m>A</m> and <m>B</m> (denoted by <m>A \cap  B</m>) is the set of all elements
+that are in both <m>A</m> and <m>B</m>. That is, <m>A \cap  B = \{x:x \in  A \textrm{ and } x \in  B\}</m>. </p>
+</statement>
+</definition>
+
+</subsection>
+<exercises xml:id="exercises-1-2">
+<title>Exercises</title>
+<exercise>
+<statement><p> Suppose that <m> U</m> is an infinite universal set, and <m> A</m> and <m> B</m> are infinite subsets of <m> U</m>. Answer the following questions with a brief explanation.</p> 
+<p><ol marker="(a)">
+<li><p>  Must <m>A^c</m> be finite? </p></li>
+<li><p>  Must <m>A\cup B</m> be infinite? </p></li>
+<li><p>  Must <m>A\cap B</m> be infinite? </p></li>
+</ol></p>
+</statement></exercise>
+</exercises>
+</section>
